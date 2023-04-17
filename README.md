@@ -1,4 +1,4 @@
-# Analysis of NYC TC201 Form - Real Estate Tax Data — 2021
+# Analysis of NYC landlord expenses and maintenance spending – Tax Commission TC201 Form — 2021
 
 This repository contains data and analytic code that support the CUNY j-school analysis of landlord spending on rent stabilized units. This analysis was done by Saugat Bolakhe, Liz Rosenberg, Saffiyah Riddle, and Rebecca Redelmeier for Lam Thuy Vo's data journalism class.
 
