@@ -30,9 +30,10 @@ The notebook [`analysis.ipynb`](notebooks/analysis.ipynb) performs the following
 
 - Calculates percentage of total expense cost spent on repairs
 
-The google sheet ['tax_data_analysis'](https://docs.google.com/spreadsheets/d/1whShVMTuxbVc5Kfbm6SWC2WhLuXR5lIqQ0JRE6zRIvE/edit#gid=965609219) perfroms the following analyses:
 
-##### Filters all building expense data for only buildings that include income from rent stabilized units
+##### Part 3: Filter findings for buildings with rent-stabilized units
+
+- The google sheet ['tax_data_analysis'](https://docs.google.com/spreadsheets/d/1whShVMTuxbVc5Kfbm6SWC2WhLuXR5lIqQ0JRE6zRIvE/edit#gid=965609219) Filters all building expense data for only buildings that include income from rent stabilized units
 
 
 ## Outputs
