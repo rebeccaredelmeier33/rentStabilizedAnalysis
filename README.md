@@ -1,6 +1,6 @@
 # Analysis of NYC landlord expenses and maintenance spending – Tax Commission TC201 Form — 2021
 
-This repository contains data and analytic code that support the CUNY j-school analysis of landlord spending on rent stabilized units. This analysis was done by Saugat Bolakhe, Liz Rosenberg, Saffiyah Riddle, and Rebecca Redelmeier for Lam Thuy Vo's data journalism class.
+This repository contains data and analytic code that support the CUNY j-school analysis of landlord spending on rent stabilized units. This analysis was done by Saugat Bolakhe, Liz Rosenberg, Safiyah Riddle, and Rebecca Redelmeier for Lam Thuy Vo's data journalism class.
 
 ## Data
 
@@ -29,6 +29,10 @@ The notebook [`analysis.ipynb`](notebooks/analysis.ipynb) performs the following
 ##### Part 2: Finds repairs and maintance expenses as percent of total expenses
 
 - Calculates percentage of total expense cost spent on repairs
+
+The google sheet ['tax_data_analysis'](https://docs.google.com/spreadsheets/d/1whShVMTuxbVc5Kfbm6SWC2WhLuXR5lIqQ0JRE6zRIvE/edit#gid=965609219) perfroms the following analyses:
+
+##### Filters all building expense data for only buildings that include income from rent stabilized units
 
 
 ## Outputs
